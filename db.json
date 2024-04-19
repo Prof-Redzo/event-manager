@@ -1,0 +1,13 @@
+{
+	"events": [
+		{
+			"title": "My test event3",
+			"description": "This is the description",
+			"date": "15/03/2024",
+			"location": "Sarajevo",
+			"registeredUsersCounter": 10,
+			"registrationLimit": 10,
+			"id": "c28a1334-92e3-441e-9ef9-762a7be0fa3b"
+		}
+	]
+}
